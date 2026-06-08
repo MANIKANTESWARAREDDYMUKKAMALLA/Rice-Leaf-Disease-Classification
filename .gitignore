@@ -1,0 +1,19 @@
+# Models
+*.keras
+*.h5
+*.hdf5
+
+# Datasets
+dataset/
+data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+outputs/models/
+outputs/predictions/
